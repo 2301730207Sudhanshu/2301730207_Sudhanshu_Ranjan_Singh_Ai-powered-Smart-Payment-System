@@ -6,6 +6,9 @@ AI-Powered SMART Payment
 # Team Members:
 Sudhanshu Ranjan Singh(2301730207)(Btech CSE AI ML)
 
+# LINK TO PROJECT VIDEO:
+https://drive.google.com/file/d/1teh89qglh-ElZl0Cbm7H8kayA0sWCi1c/view?usp=drive_link
+
 # Link to Video Explanation:
 https://drive.google.com/file/d/14nFV_cefJvN11O99eMbmI2xEWwC6-Dct/view?usp=drive_link
 
